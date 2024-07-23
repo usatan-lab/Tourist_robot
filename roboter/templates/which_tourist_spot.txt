@@ -1,0 +1,2 @@
+$user_nameさんはどこの観光スポットが好きですか？
+$user_name, which tourist spot do you like?

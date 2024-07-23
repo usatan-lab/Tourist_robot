@@ -1,0 +1,5 @@
+私のオススメの観光スポットは、$tourist_spotです。
+I recommend tourist　spot　$tourist_spot.
+
+この観光スポットは好きですか？ [Yes/No]
+Do you like it? [y/n]
